@@ -1,2 +1,0 @@
-# ReduxRouter
-Created with CodeSandbox
